@@ -1,0 +1,1 @@
+marker alleleA alleleB ind0 ind0 ind0 ind2
