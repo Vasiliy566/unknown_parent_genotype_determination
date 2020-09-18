@@ -1,3 +1,4 @@
+[Full discription](https://github.com/Vasiliy566/unknown_parent_genotype_determination/blob/master/Presentation1.pdf)
 ## Targets and goals
 
 Receive information about one of the parents on the genome of the second parent and child
